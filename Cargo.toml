@@ -1,0 +1,8 @@
+[package]
+name = "dns-query-resolver"
+version = "1.0.0"
+edition = "2021"
+description = "A small DNS A/AAAA resolver implemented with Rust standard library"
+license = "MIT"
+
+[dependencies]
